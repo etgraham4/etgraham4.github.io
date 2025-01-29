@@ -12,3 +12,7 @@
     max-height: 100px;
     overflow-y: scroll;
 }
+
+.img {
+    margin: auto;
+}
